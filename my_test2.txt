@@ -1,4 +1,5 @@
 rebase_change third_branch 01
+rebase_change third_branch 02
 nothing here;
 new change on my_test_branch V1.1;
 new change on my_test_branch V2.1;
