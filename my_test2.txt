@@ -10,3 +10,5 @@ new change on my_second_branch V2.1;
 rebase_change master 01
 rebase_change master 02
 rebase_change master 01
+
+some_more_change
